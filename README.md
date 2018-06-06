@@ -16,4 +16,4 @@
 
 번역 관련은 Pull Request를 선호합니다. 상황이 여의치 않은 경우 카카오톡 'xiaomiqm' 아이디 친구추가 하신 후에 문자 보내주시면 바로 반영하도록 하겠습니다.<br /><br />I prefer a translate suggestions via Pull request. If not possible, you can send me a message on KakaoTalk (ID : xiaomiqm), or please send me an email on miuios.kr@gmail.com.
 
-![alt text](/miai_intro.JPG)
+![alt text](/catdrive.png)
